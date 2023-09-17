@@ -60,6 +60,7 @@ object I18n {
         "th",
         "tl",
         "zh",
+        "ko",
     ).map { Locale(it) }
 
     /**
